@@ -1,0 +1,4 @@
+.env
+posted_images.txt
+*.log
+/images
